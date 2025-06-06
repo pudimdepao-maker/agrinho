@@ -1,0 +1,65 @@
+#paragrafo1{
+    text-align:center;
+    font-size:medium;
+    color:rgb(85, 114, 67);
+    border:5px solid grey;
+    font-family:"big shoulders";
+}
+.titulo{
+    font-size:3rem;
+    color:cadetblue;
+    text-align:center;
+}
+.fonte-grande{
+    font-size:40px;
+}
+.sublinhado{
+    text-decoration:underline;
+}
+.texto{
+    text-align:center;
+    font-size:2rem;
+    color:black
+}
+.borda{
+    border:5px solid grey;
+}
+.fonte{
+    font-family:"big shoulders"
+}
+.espaçamento1{
+    line-height:2px;
+}
+.cor{
+    color:grey;
+}
+.flex{
+    display:flexbox;
+}
+.container{
+    margin:auto;
+    border:1px solid #ccc;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+.esquerda{
+display:left;
+}
+.direita{
+display:right;
+}
+.fixo{
+    position:fixed;
+}
+.fundo{
+    background-color: beige;
+
+    background-image:url(image\ 10.png) ;
+}
+.margem{
+    margin:0 auto;
+}
+#barra{
+    width:20px;
+    height:120px;
+}
